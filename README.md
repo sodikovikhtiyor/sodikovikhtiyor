@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ikhtiyorsodikov.netlify.app/](https://ikhtiyorsodikov.netlify.app/)
 
-- 📝 I regularly write articles on [Web development and AI](Web development and AI)
+- 📝 I regularly write articles on **Web development and AI**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
